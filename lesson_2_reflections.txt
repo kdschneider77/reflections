@@ -24,3 +24,4 @@ the commits of both branches merge into one branch.  the merged commit has paren
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+If git always merged manually the code could get really messy and buggy.  the conflicts that it requires a human to resolve prevent that issue.
