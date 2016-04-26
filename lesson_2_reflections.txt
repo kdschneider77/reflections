@@ -20,6 +20,7 @@ they show you at what point things branched, how many branches exist, and when a
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+the commits of both branches merge into one branch.  the merged commit has parent commits from both branches
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
