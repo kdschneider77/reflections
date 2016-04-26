@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    With more complicated projects and features that may appear in different versions you want to keep separate for split testing.  It makes it more complicated though it is much more simple to use just the master.
