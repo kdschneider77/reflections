@@ -16,6 +16,7 @@ organized? How would branches help?
 If you wanted to make two different stylized or featured versions of a website or program to compare and test.  Branches allow you to keep both. 
 
 How do the diagrams help you visualize the branch structure?
+they show you at what point things branched, how many branches exist, and when a detached head exists.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
